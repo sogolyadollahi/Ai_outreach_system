@@ -1,0 +1,11 @@
+name,email,company,industry,website,lead_score
+Alice Johnson,alice@acmecorp.com,Acme Corp,SaaS Software,https://acmecorp.com,82
+Bob Smith,bob@retailco.com,RetailCo,E-commerce,https://retailco.com,65
+Carlos Mendez,carlos@lawfirm.io,LawFirm LLC,Legal Services,,45
+Diana Lee,diana@healthplus.com,HealthPlus,Healthcare,https://healthplus.com,91
+Ethan Brown,ethan@constructco.com,ConstructCo,Construction,,58
+Fiona Chen,fiona@agencyx.io,Agency X,Digital Marketing,https://agencyx.io,77
+George Patel,george@logisticshub.com,LogisticsHub,Logistics & Supply Chain,https://logisticshub.com,69
+Hannah Rivera,hannah@edtech.co,EduTech,Education Technology,https://edtech.co,88
+Ivan Koval,ivan@finserve.com,FinServe,Financial Services,,72
+Julia Torres,julia@realestate.pro,Prime Realty,Real Estate,https://realestate.pro,55

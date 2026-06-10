@@ -1,0 +1,76 @@
+[
+  {
+    "lead": {
+      "name": "Alice Johnson",
+      "email": "alice@acmecorp.com",
+      "company": "Acme Corp",
+      "industry": "SaaS Software",
+      "lead_score": 82
+    },
+    "personalization": {
+      "first_name": "Alice",
+      "company_name": "Acme Corp",
+      "industry": "SaaS Software",
+      "pain_point_guess": "High churn rates and difficulty converting trial users to paid customers",
+      "improvement_area": "automation",
+      "hook": "Most SaaS companies lose 70% of trial users before they ever see the product's value—usually because there's no smart onboarding automation in place."
+    },
+    "email_sequence": [
+      {
+        "type": "cold_email",
+        "send_day": 1,
+        "subject": "Acme Corp trial-to-paid conversions",
+        "body": "Hi Alice,\n\nMost SaaS teams I talk to are losing trial users not because of the product—but because follow-up is manual and slow.\n\nI help SaaS companies like Acme Corp automate onboarding sequences that nudge the right users at the right time. A few of our clients doubled their trial conversion rate in 60 days.\n\nWorth a 15-minute chat to see if there's a fit?"
+      },
+      {
+        "type": "followup_1",
+        "send_day": 3,
+        "subject": "Re: Acme Corp trial-to-paid conversions",
+        "body": "Hey Alice,\n\nJust circling back on my last note. Quick question: are you currently using any automated email sequences for trial users, or is it mostly manual outreach from your team?\n\nEven knowing your current setup would help me see if there's something worth sharing."
+      },
+      {
+        "type": "followup_2",
+        "send_day": 7,
+        "subject": "Leaving this here for you",
+        "body": "Alice,\n\nI know Q3 is hectic. I'll keep this short—if improving trial conversion ever becomes a priority at Acme Corp, I'd love to be the first call you make.\n\nNo pressure. Just wanted to stay on your radar."
+      }
+    ]
+  },
+  {
+    "lead": {
+      "name": "Fiona Chen",
+      "email": "fiona@agencyx.io",
+      "company": "Agency X",
+      "industry": "Digital Marketing",
+      "lead_score": 77
+    },
+    "personalization": {
+      "first_name": "Fiona",
+      "company_name": "Agency X",
+      "industry": "Digital Marketing",
+      "pain_point_guess": "Spending too much time on manual client reporting instead of actual campaign work",
+      "improvement_area": "time saving",
+      "hook": "Agency owners often tell me reporting alone eats 8+ hours a week that should be spent on client results."
+    },
+    "email_sequence": [
+      {
+        "type": "cold_email",
+        "send_day": 1,
+        "subject": "Getting Agency X's reporting time back",
+        "body": "Hi Fiona,\n\nAgency life: deliver results, but also build decks, pull dashboards, and explain every number to clients—every single week.\n\nI work with digital agencies to cut reporting time by 70% using automated client dashboards. More time for the work that actually grows the agency.\n\nOpen to a quick look at how Agency X does it today?"
+      },
+      {
+        "type": "followup_1",
+        "send_day": 3,
+        "subject": "Re: Getting Agency X's reporting time back",
+        "body": "Hey Fiona,\n\nFollowing up on my last message. Curious—how are you currently handling monthly client reports at Agency X? Manual pulls, a tool, or a mix?\n\nIf it's still taking hours, there might be a smarter way."
+      },
+      {
+        "type": "followup_2",
+        "send_day": 7,
+        "subject": "Last one, I promise",
+        "body": "Fiona,\n\nLast nudge—agency reporting is one of those things that's painful until it isn't. If you ever want to explore automating it, I'm here.\n\nHope Agency X's campaigns are crushing it."
+      }
+    ]
+  }
+]
