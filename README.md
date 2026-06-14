@@ -158,3 +158,8 @@ Alice Johnson,alice@acme.com,Acme Corp,SaaS,https://acme.com,82
 
 Required: `name`, `email`, `company`, `industry`
 Optional: `website`, `lead_score` (0–100, default 50)
+
+
+## Demo Video
+
+[▶ Watch Demo](demo/demo.mp4)
